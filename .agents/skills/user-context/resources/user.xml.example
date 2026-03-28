@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  User Context File — EXAMPLE TEMPLATE
+  Copy this file to user.xml and fill in your own details.
+  user.xml is gitignored to keep personal data out of version control.
+
+  Maintains user preferences, project context, and session information
+  for personalized AI assistance across sessions.
+-->
+<user-context version="1.0" last-updated="YYYY-MM-DD">
+
+  <identity>
+    Name: Your Full Name
+    Age: 00 (born YYYY-MM-DD)
+    Location: City, Country
+    Email: you@example.com
+    Phone: +00 00000 00000
+  </identity>
+
+  <education>
+    Degree: B.Tech / B.Sc / M.Tech / etc. in [Field]
+    University: University Name
+    Batch: YYYY–YYYY
+    CGPA: 0.0 / 10
+  </education>
+
+  <skills>
+    Languages: Python, JavaScript, TypeScript, ...
+
+    AI/ML:
+      PyTorch, LangChain, ...
+
+    Web & Backend:
+      React, Node.js, Express.js, FastAPI, ...
+      MongoDB, PostgreSQL, ...
+
+    Infrastructure:
+      Docker, Linux, Nginx, ...
+
+    Cloud & DevOps:
+      AWS (...), GCP (...), GitHub Actions, CI/CD
+
+    Tools: VS Code, ...
+  </skills>
+
+  <projects>
+      Active (in order of current focus):
+
+      1. Project Name — Short description
+      Tech stack description
+      Key features
+
+      2. Project Name — Short description
+      ...
+
+
+      Up Next:
+
+      1. Project Name
+      Description, stack, hosting
+
+      2. Project Name
+      ...
+
+
+      Completed (highlights):
+
+      Previous project 1, Previous project 2, ...
+
+
+      Dropped:
+
+      Project X → reason for dropping
+  </projects>
+
+  <leadership>
+    - Role, Organization (YYYY–Present)
+    - Role, Organization (YYYY–YYYY)
+  </leadership>
+
+  <experience>
+    Role — Organization (Month YYYY – Month YYYY)
+    Brief description of responsibilities
+  </experience>
+
+  <certifications>
+    Certification Name — Issuing Body (Month YYYY)
+  </certifications>
+
+  <work_style>
+    Strengths:
+      Strength 1, Strength 2, Strength 3
+
+    Challenges:
+      Challenge 1, Challenge 2
+  </work_style>
+
+  <interests>
+    Gaming: ...
+    Tinkering: ...
+    Music: ...
+  </interests>
+
+  <current_direction>
+    Primary focus: ...
+    Research intent: ...
+    Career goals: ...
+  </current_direction>
+
+  <profiles>
+    GitHub: https://github.com/your-username
+    LinkedIn: https://www.linkedin.com/in/your-profile/
+    X: https://x.com/your-handle
+  </profiles>
+
+</user-context>
