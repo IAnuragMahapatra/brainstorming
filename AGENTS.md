@@ -148,13 +148,48 @@ Skill instructions here...
 
 | Skill | Purpose |
 | ------- | --------- |
-| `brainstorming` | Collaborative design process for new features/components. **REQUIRED before any creative work.** |
-| `user-context` | Load user profile and preferences at session start |
+| `agents-md` | Enforces research-backed best practices for minimal, high-signal agent documentation |
 | `ai-engineer` | Production LLM applications, RAG systems, AI agents |
 | `architect-review` | Architecture reviews, scalability assessments |
-| `llm-application-dev-langchain-agent` | LangChain/LangGraph agent development |
+| `ask-questions-if-underspecified` | Clarify requirements before implementing. Use when serious doubts arise. |
+| `avoid-ai-writing` | Audit and rewrite content to remove common AI writing patterns |
+| `brainstorming` | Collaborative design process for new features/components. **REQUIRED before any creative work.** |
+| `competitive-landscape` | Analyze competitors, assess competitive landscape, apply Porter's Five Forces |
+| `concise-planning` | Generate a clear, actionable, and atomic checklist for coding tasks |
+| `data-storytelling` | Transform data into compelling narratives using visualization and persuasive structure |
+| `deep-research` | Execute autonomous multi-step research using Google Gemini Deep Research Agent |
+| `design-spells` | Curated micro-interactions and design details that add "magic" and personality |
+| `docx` | Create, read, edit, and manipulate Word documents (.docx files) |
+| `executing-plans` | Execute a written implementation plan with review checkpoints |
+| `frontend-design` | Create distinctive, production-grade frontend interfaces with intentional aesthetics |
+| `frontend-slides` | Create stunning, animation-rich HTML presentations |
+| `github-issue-creator` | Convert notes, logs, or screenshots into crisp GitHub-flavored markdown issue reports |
+| `langgraph` | Expert in LangGraph for building stateful, multi-actor AI applications |
+| `llm-app-patterns` | Production-ready patterns for building LLM applications |
 | `llm-application-dev-ai-assistant` | AI assistant/chatbot development |
+| `llm-application-dev-langchain-agent` | LangChain/LangGraph agent development |
 | `llm-application-dev-prompt-optimize` | Prompt engineering and optimization |
+| `market-sizing-analysis` | Calculate TAM, SAM, SOM, and evaluate market opportunity |
+| `mermaid-expert` | Create Mermaid diagrams for flowcharts, sequences, ERDs, and architectures |
+| `multi-advisor` | Consult multiple agents in parallel for multi-perspective analysis |
+| `multi-agent-brainstorming` | Simulate a structured peer-review process using multiple specialized agents |
+| `pdf` | Read, extract, merge, and manipulate PDF files |
+| `planning-with-files` | Implements file-based planning for complex tasks (task_plan.md, findings.md) |
+| `pptx` | Create, read, edit, and manipulate PowerPoint presentations (.pptx files) |
+| `product-design` | Product design — visual systems, UX flows, accessibility, design tokens |
+| `product-inventor` | Product thinking, design systems, UI engineering, and storytelling |
+| `product-manager-toolkit` | RICE prioritization, customer interview analysis, PRD templates, and GTM strategies |
+| `readme` | Create or update a README.md file for a project |
+| `skill-creator` | Create, modify, improve, and measure performance of agent skills |
+| `skill-writer` | Create and improve agent skills following the Agent Skills specification |
+| `software-architecture` | Guide for quality focused software architecture |
+| `startup-analyst` | Market sizing, financial modeling, competitive analysis, and strategic planning |
+| `theme-factory` | Toolkit for styling artifacts with themes, including 10 pre-set templates |
+| `ui-skills` | Opinionated, evolving constraints to guide agents when building interfaces |
+| `user-context` | Load user profile and preferences at session start |
+| `writing-plans` | Write specs or requirements for a multi-step task before touching code |
+| `writing-skills` | Formatting and guidelines for creating or updating agent skills |
+| `xlsx` | Open, read, edit, fix, and create spreadsheet files (.xlsx, .csv, .tsv) |
 
 ## Brainstorming Visual Companion
 
